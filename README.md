@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 <!-- Resume -->
-- 📫 Checkout my [Resume](https://drive.google.com/open?id=1ZgI7XyERI5IicZzCt-MX9zBJX8pQVt5-) &nbsp; <img width="15" src="https://raw.githubusercontent.com/pradip-bhoskar/pradip-bhoskar/main/readme/images/gif/fire_water.webp">
+- 📫 Checkout my [Resume](https://drive.google.com/file/d/1c5E-FGUr_xLfClISFKc2ubavxyVTKaEK/view) &nbsp; <img width="15" src="https://raw.githubusercontent.com/pradip-bhoskar/pradip-bhoskar/main/readme/images/gif/fire_water.webp">
 
 
 - 💬 Ask me about **Java , Wordpress**&nbsp; <img width="15"
