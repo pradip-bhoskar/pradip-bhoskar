@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![MasterHead](https://raw.githubusercontent.com/pradip-bhoskar/pradip-bhoskar/main/readme/images/gif/github_profile.gif)
+<!-- 
+![MasterHead](https://raw.githubusercontent.com/pradip-bhoskar/pradip-bhoskar/main/readme/images/gif/github_profile.gif) -->
 
 
 <h1 align="center">Hi <img
